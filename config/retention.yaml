@@ -1,0 +1,4 @@
+version: demo-1
+# Praguri demonstrative, de validat înainte de utilizare operațională.
+high_risk_threshold: 0.7
+low_relationship_max: 1
